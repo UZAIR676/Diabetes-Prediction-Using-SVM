@@ -1,1 +1,1 @@
-﻿# Diabetes-Prediction-using-moddel
+﻿# Diabetes-Prediction-using-ml
